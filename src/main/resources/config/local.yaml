@@ -1,0 +1,14 @@
+http: 
+  listener: 
+    port: "8081"
+    host: "localhost"
+    path: "/travelonTipcall/{serviceType}"
+  
+db:
+  mysql:
+    host: "localhost"
+    port: "3306"
+    user: "root"
+    password: "Venkat001@"
+    database: "database"    
+    

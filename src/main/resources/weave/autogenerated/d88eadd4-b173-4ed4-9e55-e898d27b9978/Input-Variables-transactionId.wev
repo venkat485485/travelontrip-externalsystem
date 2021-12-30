@@ -1,0 +1,4 @@
+%dw 2.0
+
+type auto_d88eadd4_b173_4ed4_9e55_e898d27b9978_Input_Variables_transactionId = String | Null
+
